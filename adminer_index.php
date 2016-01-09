@@ -1,5 +1,5 @@
 <?php
-#Added new line
+
 //includes
 	include "root.php";
 	require_once "resources/require.php";
