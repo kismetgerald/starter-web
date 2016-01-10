@@ -16,7 +16,11 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to Contribute
 
+<<<<<<< HEAD
 Please fork this repo and submit PULL requests for review.
+=======
+Please fork this repo and issue pull requests for review.
+>>>>>>> simple-changes
 
 ### Copyright
 
